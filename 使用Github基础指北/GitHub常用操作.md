@@ -2,11 +2,11 @@
 
 ## 将GitHub上仓库下载到本地
 
-首先打开该仓库 复制SSH![SSH](Photos\SSH.png)
+首先打开该仓库 复制SSH![SSH](Photos/SSH.png)
 
 然后在电脑上右键要保存该仓库的文件夹 点击Git Bash Here
 
-![Git Bash here](Photos\Git Bash here.png)
+![Git Bash here](Photos/Git Bash here.png)
 
 在Git Bash客户端输入命令行：
 
