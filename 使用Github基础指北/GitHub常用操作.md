@@ -6,7 +6,7 @@
 
 然后在电脑上右键要保存该仓库的文件夹 点击Git Bash Here
 
-![Git Bash here](Photos/Git Bash here.png)
+![Git_Bash_here](Photos/Git Bash here.png)
 
 在Git Bash客户端输入命令行：
 
